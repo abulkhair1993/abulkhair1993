@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+- 🔭 I’m currently working on java spring boot microservices
+- 🌱 I’m currently learning docker & kubernetes
+
+
 
 <!--
 **abulkhair1993/abulkhair1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
